@@ -5,4 +5,5 @@
 - 📫 How to reach me 
 - instagram: nusret.romonova
 - linkedin: https://www.linkedin.com/in/nusret-romonova-73b340232/
+- Kodluyoruz: https://app.patika.dev/nurset
 
