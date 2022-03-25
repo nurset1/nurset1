@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nusret
 - 👀 I’m interested in python,dart
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning html-css-js
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me 
 - instagram: nusret.romonova
